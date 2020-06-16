@@ -28,7 +28,7 @@ let lunch = new Lunch('side salad', 'broccoli soup', 'cola')
      this._dessert = dessert;
    }
  }
- let dinner = new Dinner('ci salad', 'consomme', 'mashroom', 'cheesecake')
+ let dinner = new Dinner('salads of pasta', 'consomme', 'mashroom', 'cheesecake')
  dinner.salad;
  dinner.soup;
  dinner.entree;
