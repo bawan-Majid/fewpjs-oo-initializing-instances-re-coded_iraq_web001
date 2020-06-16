@@ -4,7 +4,7 @@ class Breakfast {
     this.drink = drink;
   }
 }
- let bfast = new Breakfast('eggs', 'juice')
+ let bfast = new Breakfast('eggs', 'milk')
  bfast.food;
  bfast.drink;
  
@@ -15,7 +15,7 @@ class Breakfast {
     this.drink = drink;
   }
 }
-let lunch = new Lunch('side salad', 'broccoli cheddar soup', 'iced tea')
+let lunch = new Lunch('side salad', 'broccoli soup', 'cola')
  lunch.salad;
  lunch.soup;
  lunch.drink;
@@ -28,7 +28,7 @@ let lunch = new Lunch('side salad', 'broccoli cheddar soup', 'iced tea')
      this._dessert = dessert;
    }
  }
- let dinner = new Dinner('balsamic salad', 'consomme', 'filet mignon', 'cheesecake')
+ let dinner = new Dinner('balsamic salad', 'consomme', 'mashroom', 'cheesecake')
  dinner.salad;
  dinner.soup;
  dinner.entree;
