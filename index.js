@@ -15,7 +15,7 @@ class Breakfast {
     this.drink = drink;
   }
 }
-let lunch = new Lunch('side salad', 'broccoli soup', 'cola')
+let lunch = new Lunch('Nicoise salad', 'broccoli soup', 'cola')
  lunch.salad;
  lunch.soup;
  lunch.drink;
